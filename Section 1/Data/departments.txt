@@ -1,0 +1,15 @@
+Human Resources;0
+Finance;10
+Marketing;20
+Sales;30
+Information Technology;40
+Operations;50
+Research and Development;60
+Customer Support;70
+Logistics;80
+Product Development;90
+Legal;100
+Public Relations;110
+Quality Assurance;120
+Procurement;130
+Environmental Health and Safety;140
