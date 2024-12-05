@@ -31,7 +31,7 @@ namespace Section1.Code
 
     internal static class Company
     {
-        private static readonly string BasePath = @"C:\Users\Alihan\source\repos\Assignment1\Assignment1\Data";
+        private static readonly string BasePath = @"C:\Users\ilepeha\Desktop\Assignment1\Section1\Data";
         private static readonly string EmployeePath = $"{BasePath}\\employees.txt";
         private static readonly string DepartmentPath = $"{BasePath}\\departments.txt";
         private static readonly string SubDepartmentPath = $"{BasePath}\\subdepartments.txt";

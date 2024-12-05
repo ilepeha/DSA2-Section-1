@@ -20,13 +20,13 @@
             this.sideBarPanel = CreatePanel(System.Drawing.SystemColors.ControlDarkDark, new System.Drawing.Size(200, 716), DockStyle.Left);
             this.mainPanel = CreatePanel(System.Drawing.Color.White, new System.Drawing.Size(996, 716), DockStyle.Fill);
 
-            this.btnEmployees = CreateButton("EMPLOYEES", global::Assignment1.Properties.Resources.user_24px, new System.Drawing.Point(0, 292), this.btnEmployees_Click);
-            this.btnDepartments = CreateButton("DEPARTMENTS", global::Assignment1.Properties.Resources.report_card_24px, new System.Drawing.Point(0, 245), this.btnDepartments_Click);
-            this.btnDashBoard = CreateButton("DASHBOARD", global::Assignment1.Properties.Resources.monitor_24px, new System.Drawing.Point(0, 198), this.btnDashBoard_Click);
+            this.btnEmployees = CreateButton("EMPLOYEES", global::Section1.Properties.Resources.user_24px, new System.Drawing.Point(0, 292), this.btnEmployees_Click);
+            this.btnDepartments = CreateButton("DEPARTMENTS", global::Section1.Properties.Resources.report_card_24px, new System.Drawing.Point(0, 245), this.btnDepartments_Click);
+            this.btnDashBoard = CreateButton("DASHBOARD", global::Section1.Properties.Resources.monitor_24px, new System.Drawing.Point(0, 198), this.btnDashBoard_Click);
 
             this.pictureBox1 = new System.Windows.Forms.PictureBox
             {
-                Image = global::Assignment1.Properties.Resources.staff_96px,
+                Image = global::Section1.Properties.Resources.staff_96px,
                 Location = new System.Drawing.Point(31, 12),
                 Name = "pictureBox1",
                 Size = new System.Drawing.Size(115, 112),
